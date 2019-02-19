@@ -1,3 +1,3 @@
 # face-recognition-brain
 
-Testing text
+Face recognition app built with React.js, Node.js and postgreSQL
